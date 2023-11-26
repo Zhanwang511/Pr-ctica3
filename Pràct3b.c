@@ -1,3 +1,4 @@
+#inculde <stdio.h>
 int main(){
 short i,j;
 i = 1;
