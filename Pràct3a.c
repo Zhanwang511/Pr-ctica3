@@ -1,8 +1,8 @@
-#include <stdio.h>
 int main(){
- int i, a[20]; 
- for( i = 0; i < 20; i++ ){
- a[i] = i*4;
- }
- return 0;
+int i,j;
+i = 1;
+j = 2;
+i++;
+j += i;
+return 0;
 }
